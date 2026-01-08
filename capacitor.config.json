@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.hadaf.financetracker",
+  "appName": "Hadaf",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
